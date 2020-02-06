@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP esp32_38_pins-custom_library
+F https://docs.espressif.com/projects/esp-idf/en/latest/get-started/get-started-devkitc.html
+$ENDCMP
+#
+#End Doc Library
